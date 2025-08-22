@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    display: flex;
+    justify-content: center; 
+    align-items: center;     
+    height: 100vh;    
+    background-color: peachpuff;        
+}
+
+.container{
+    background-color:skyblue;
+    margin: 5rem;
+    padding: 5rem;
+    border: 2px solid black;
+}
+
+#btn{
+    height: 2.2rem;
+    margin: 1rem;
+    padding: 0.5rem;
+    font-size: medium;
+    border: 0.2rem solid black;
+}
+
+#h1{
+    margin: 5px;
+    padding: 5px;
+}
+
+
+#h2{
+    margin: 5px;
+    padding: 5px;
+}
+
+#height{
+    height: 1.5rem;
+}
+
+#weight{
+    height: 1.5rem;
+}
+
+#result{
+    font-size: large;
+}
