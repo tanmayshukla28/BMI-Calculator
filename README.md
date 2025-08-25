@@ -3,7 +3,7 @@ BMI Calculator
 A lightweight, responsive BMI (Body Mass Index) calculator built with HTML, CSS, and JavaScript—developed in just 40 minutes during a college lecture as a fun and practical coding exercise.
 
 
----
+-----
 
 Features
 
