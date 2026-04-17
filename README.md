@@ -89,7 +89,7 @@ BMI-Calculator/
 └── script.js        # Calculation logic & interactivity
 
 
----
+-----
 
 Let's Connect
 
